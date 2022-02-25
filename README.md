@@ -10,4 +10,16 @@
 
 # Rom's Hypr Keybinds 
 
-- a
+- SUPER + R = open rofi
+- SUPER + Q = open thunar
+- SUPER + RETURN = open xterm
+- SUPER + G = open falkon
+
+# Hypr Keybinds DEFAULT
+
+- SUPER + C = kill active window
+- SUPER + UP, DOWN, LEFT OR RIGHT = move active window
+- SUPER + F = fullscreen active window
+- SUPER + 1-9 = change workspace
+- SUPER + SHIFT + 1-9 = move active window to another workspace
+- SUPER + SPACE = floatin' mode

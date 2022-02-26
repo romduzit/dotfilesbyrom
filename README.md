@@ -1,6 +1,6 @@
 # Dotfiles by Rom, baby!
 
-<img src=screenshot/1.jpg>
+<img src=1.jpg>
 
 - **Window Manager and Bar**: [Hypr (in testin')](https://github.com/vaxerski/Hypr)
 - **Terminal**: [xterm](https://linux.die.net/man/1/xterm)

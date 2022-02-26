@@ -9,6 +9,8 @@
 - **File Manager**: [Thunar](https://wiki.archlinux.org/title/thunar)
 - **Web Browser**: [Falkon](https://www.falkon.org/)
 - **OS**: [Arch Linux](https://wiki.archlinux.org/)
+- **Screenshot Tool**: [scrot](https://en.wikipedia.org/wiki/Scrot)
+
 
 # Rom's Hypr Keybinds 
 

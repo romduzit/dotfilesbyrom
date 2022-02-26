@@ -1,6 +1,7 @@
 # Dotfiles by Rom, baby!
 
-<img src=1.jpg>
+<img src=shot.jpg>
+<img src=shot_000.jpg>
 
 - **Window Manager and Bar**: [Hypr (in testin')](https://github.com/vaxerski/Hypr)
 - **Terminal**: [xterm](https://linux.die.net/man/1/xterm)
@@ -16,6 +17,7 @@
 - SUPER + Q = open thunar
 - SUPER + RETURN = open xterm
 - SUPER + G = open falkon
+- SUPER + P = take screenshot with scrot
 
 # Hypr Keybinds DEFAULT
 

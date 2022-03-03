@@ -10,6 +10,9 @@
 - **Web Browser**: [Falkon](https://www.falkon.org/)
 - **OS**: [Arch Linux](https://wiki.archlinux.org/)
 - **Screenshot Tool**: [scrot](https://en.wikipedia.org/wiki/Scrot)
+- **Boot Loader**: [GRUB](https://www.gnu.org/software/grub/)
+- **Login Manager**: [SLiM](https://wiki.archlinux.org/title/SLiM)
+
 
 
 # Rom's Hypr Keybinds 
